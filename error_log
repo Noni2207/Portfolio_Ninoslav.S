@@ -1,0 +1,14 @@
+[11-Jan-2021 13:58:39 Europe/Berlin] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ninosuot/public_html/index.php on line 3
+[11-Jan-2021 13:58:44 Europe/Berlin] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ninosuot/public_html/index.php on line 3
+[11-Jan-2021 13:59:11 Europe/Berlin] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ninosuot/public_html/index.php on line 3
+[11-Jan-2021 13:59:14 Europe/Berlin] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ninosuot/public_html/index.php on line 3
+[25-Jan-2021 10:54:58 Europe/Berlin] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ninosuot/public_html/index.php on line 3
+[25-Jan-2021 10:55:02 Europe/Berlin] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ninosuot/public_html/index.php on line 3
+[25-Jan-2021 10:55:04 Europe/Berlin] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ninosuot/public_html/index.php on line 3
+[25-Jan-2021 10:55:09 Europe/Berlin] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ninosuot/public_html/index.php on line 3
+[25-Jan-2021 10:55:22 Europe/Berlin] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ninosuot/public_html/index.php on line 3
+[26-Jan-2021 11:01:40 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in /home/ninosuot/public_html/form_process.php on line 47
+[26-Jan-2021 11:01:48 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in /home/ninosuot/public_html/form_process.php on line 47
+[26-Jan-2021 11:02:23 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in /home/ninosuot/public_html/form_process.php on line 47
+[26-Jan-2021 11:35:23 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ninosuot/public_html/form_process.php on line 50
+[26-Jan-2021 11:35:42 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ninosuot/public_html/form_process.php on line 50
