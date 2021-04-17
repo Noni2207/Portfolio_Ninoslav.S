@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /images/
+Allow:images/Banner-min (1).png
+Allow:images/Banner S.P-min1.png
+Disallow: /styleF.css/
+Disallow: index.php/cdnjs/
+Disallow: index.php/ajax/
+Disallow: /script.js/
+Disallow: /error_log/
+Disallow: /form_process.php/
+Sitemap: https://www.ninoslav.no/sitemap.xml
